@@ -4,11 +4,32 @@
   "block.trailiertales.suspicious_clay": "Podejrzana glina",
 
   "item.trailiertales.bullseye_pottery_sherd": "Odłamek ceramiki „Cel”",
+  "item.trailiertales.bullseye_pottery_sherd": "Odłamek ceramiki „Wither”",
 
+  "block.trailiertales.coffin": "Trumna",
+  
   "block.trailiertales.potted_cyan_rose": "Błękitna róża w doniczce",
   "block.trailiertales.cyan_rose": "Błękitna róża",
   "block.trailiertales.cyan_rose_crop": "Plon błękitnej róży",
   "item.trailiertales.cyan_rose_seeds": "Nasiona błękitnej róży",
+
+  "block.trailiertales.granite_bricks": "Granitowe cegły",
+  "block.trailiertales.granite_brick_stairs": "Granitowe ceglane schody",
+  "block.trailiertales.granite_brick_slab": "Granitowa ceglana płyta",
+  "block.trailiertales.granite_brick_wall": "Granitowy ceglany murek",
+  "block.trailiertales.chiseled_granite_bricks": "Rzeźbione granitowe cegły",
+
+  "block.trailiertales.diorite_bricks": "Diorytowe cegły",
+  "block.trailiertales.diorite_brick_stairs": "Diorytowe ceglane schody",
+  "block.trailiertales.diorite_brick_slab": "Diorytowa ceglana płyta",
+  "block.trailiertales.diorite_brick_wall": "Diorytowy ceglany murek",
+  "block.trailiertales.chiseled_diorite_bricks": "Rzeźbione diorytowe cegły",
+
+  "block.trailiertales.andesite_bricks": "Andezytowe cegły",
+  "block.trailiertales.andesite_brick_stairs": "Andeztyowe ceglane schody",
+  "block.trailiertales.andesite_brick_slab": "Andeztyowa ceglana płyta",
+  "block.trailiertales.andesite_brick_wall": "Andeztyowy ceglany murek",
+  "block.trailiertales.chiseled_andesite_bricks": "Rzeźbione andeztyowe cegły",
 
   "block.trailiertales.mossy_cobbled_deepslate": "Zamszony łupkowy bruk",
   "block.trailiertales.mossy_cobbled_deepslate_stairs": "Zamszone łupkowe brukowe schody",
